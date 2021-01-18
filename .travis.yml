@@ -17,6 +17,9 @@ branches:
   - stable
 
 language: cpp
+arch:
+  - amd64
+  - ppc64le
 
 jdk:
   - oraclejdk8
